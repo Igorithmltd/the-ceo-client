@@ -1,0 +1,200 @@
+{
+    "page1": {
+        "headers": [
+            "Name",
+            "Accesslevel",
+            "Signed In",
+            "Action",
+            "Added On"
+        ],
+        "rows": [
+            {
+                "name": "John Doe",
+                "accesslevel": "Admin",
+                "signedin": "2023-09-12",
+                "action": "Remove Access",
+                "addedon": "2023-01-05"
+            },
+            {
+                "name": "Jane Smith",
+                "accesslevel": "Viewer",
+                "signedin": "2023-08-23",
+                "action": "N/A",
+                "addedon": "2022-11-15"
+            },
+            {
+                "name": "Alex Johnson",
+                "accesslevel": "Owner",
+                "signedin": "2023-09-01",
+                "action": "Remove Access",
+                "addedon": "2023-06-21"
+            },
+            {
+                "name": "Emily Brown",
+                "accesslevel": "Assistant",
+                "signedin": "2023-07-30",
+                "action": "Remove Access",
+                "addedon": "2022-10-10"
+            },
+            {
+                "name": "victor ifeanyi",
+                "accesslevel": "Admin",
+                "signedin": "2023-09-12",
+                "action": "Remove Access",
+                "addedon": "2023-01-05"
+            },
+            {
+                "name": "Jane Smith",
+                "accesslevel": "Viewer",
+                "signedin": "2023-08-23",
+                "action": "Remove Access",
+                "addedon": "2022-11-15"
+            },
+            {
+                "name": "Alex Johnson",
+                "accesslevel": "Owner",
+                "signedin": "2023-09-01",
+                "action": "Remove Access",
+                "addedon": "2023-06-21"
+            },
+            {
+                "name": "Emily Brown",
+                "accesslevel": "Assistant",
+                "signedin": "2023-07-30",
+                "action": "Remove Access",
+                "addedon": "2022-10-10"
+            },
+            {
+                "name": "joy okoli",
+                "accesslevel": "Admin",
+                "signedin": "2023-09-12",
+                "action": "Remove Access",
+                "addedon": "2023-01-05"
+            },
+            {
+                "name": "Jane Smith",
+                "accesslevel": "Viewer",
+                "signedin": "2023-08-23",
+                "action": "Remove Access",
+                "addedon": "2022-11-15"
+            },
+            {
+                "name": "Alex Johnson",
+                "accesslevel": "Owner",
+                "signedin": "2023-09-01",
+                "action": "Remove Access",
+                "addedon": "2023-06-21"
+            },
+            {
+                "name": "Emily Brown",
+                "accesslevel": "Assistant",
+                "signedin": "2023-07-30",
+                "action": "Remove Access",
+                "addedon": "2022-10-10"
+            }
+        ],
+        "footer": {
+          "text": "View Invitations",
+          "link": "/users-invite"
+        }
+    },
+    "page2": {
+        "headers": [
+            "Name",
+            "Status",
+            "Signed In",
+            "Action",
+            "Added On"
+        ],
+        "rows": [
+            {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Cancel Invitation",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Cancel Invitation",
+                "addedon": "2024-06-10"
+              },
+              {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Cancel Invitation",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Cancel Invitation",
+                "addedon": "2024-06-10"
+              },
+              {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Cancel Invitation",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Cancel Invitation",
+                "addedon": "2024-06-10"
+              },
+              {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Remove Access",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Remove Access",
+                "addedon": "2024-06-10"
+              },
+              {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Remove Access",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Remove Access",
+                "addedon": "2024-06-10"
+              },
+              {
+                "name": "Emma Watson",
+                "status": "Active",
+                "signedin": "2024-09-05",
+                "action": "Remove Access",
+                "addedon": "2024-09-10"
+              },
+              {
+                "name": "Michael Brown",
+                "status": "Inactive",
+                "signedin": "2024-09-12",
+                "action": "Remove Access",
+                "addedon": "2024-06-10"
+              }
+        ],
+        "footer": {
+          "text": "View Admins",
+          "link": "/user-admin"
+        }
+    }
+}
